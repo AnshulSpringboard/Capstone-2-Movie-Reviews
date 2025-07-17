@@ -3,4 +3,4 @@
 
 - ✅ **Proposal**: Uploaded and available
 - ✅ **Data Wrangling**: Complete and uploaded
-- Currently reorganizing all files
+- Currently reorganizing other files
