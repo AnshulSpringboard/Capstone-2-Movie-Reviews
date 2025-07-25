@@ -1,0 +1,6 @@
+Model,R2,MAE,RMSE
+XGBoost Randomized Tuned,0.46,0.47,0.64
+Random Forest,0.42,0.48,0.67
+Gradient Boosting,0.4,0.5,0.68
+Linear Regression,0.19,0.54,0.78
+Decision Tree,0.08,0.63,0.79
